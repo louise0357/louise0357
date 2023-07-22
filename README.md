@@ -1,5 +1,5 @@
 # 💫 About Me:
-Öğrenci<br><br>11 Yazılım Dili İle İlgileniyorum.<br><br>Html, Css, Java, Javascript, Php, Python, C, C#, Perl, Ruby, Go<br>
+11 Yazılım Dili İle İlgileniyorum.<br><br>Html, Css, Java, Javascript, Php, Python, C, C#, Perl, Ruby, Go<br>
 
 
 ## 🌐 Socials:
