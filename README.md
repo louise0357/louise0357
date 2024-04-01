@@ -1,5 +1,5 @@
 # 💫 About Me:
-11 Yazılım Dili İle İlgileniyorum.<br><br>Html, Css, Java, Javascript, Php, Python, C, C#, Perl, Ruby, Go<br>
+<br>
 
 
 ## 🌐 Socials:
